@@ -102,7 +102,7 @@ def get_ideas(query):
 
 # Streamlit UI Enhancements
 st.set_page_config(page_title="The Bot", layout="wide")
-st.header("The Enhanced Bot")
+st.header("Insights Bot")
 
 # Sidebar for additional controls
 st.sidebar.title("Settings")
